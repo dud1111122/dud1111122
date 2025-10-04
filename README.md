@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Joo's Github..
 
 <!--
 **dud1111122/dud1111122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
