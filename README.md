@@ -1,6 +1,6 @@
 ## Welcome to Joo's Github..
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&redirect=true)
 
 <!--
 **dud1111122/dud1111122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
