@@ -1,7 +1,8 @@
 ## Welcome to Joo's Github!
 
-###My blog
-[Joo's blog](https://dud1111122.github.io/) under construction...
+### My blog
+- [Joo's blog](https://dud1111122.github.io/)
+under construction...
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&redirect=true">
