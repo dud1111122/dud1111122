@@ -1,5 +1,7 @@
 ## Welcome to Joo's Github..
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ewn35gyq6ltej7blu5fk7xyjhy&redirect=true)
+
 <!--
 **dud1111122/dud1111122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
